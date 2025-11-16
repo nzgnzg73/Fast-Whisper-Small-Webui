@@ -1,0 +1,7 @@
+
+
+
+
+faster-whisper-large-v1
+
+https://huggingface.co/Systran/faster-whisper-large-v1/tree/main
