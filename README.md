@@ -117,3 +117,70 @@ Just click the YouTube link below! You'll find my 📧 email there and can messa
 nzgnzg73@gmail.com  
 
 
+### 1. Clone the Repository
+
+
+[Python 3.10.11](https://www.python.org/downloads/release/python-31011/)
+Open your terminal or command prompt and clone the repository.
+
+```bash
+git clone https://github.com/nzgnzg73/Fast-Whisper-Small-Webui.git
+cd Fast-Whisper-Small-Webui
+```
+### 1. Clone the Repository
+
+
+### 2. Set Up a Python Virtual Environment
+
+
+[Python 3.10.11](https://www.python.org/downloads/release/python-31011/)
+
+
+Create a virtual environment using python 3.10 to avoid dependency conflicts
+
+```bash
+py -3.10 -m venv venv
+
+```
+
+
+### 3. Activate the virtual environment.
+
+```bash
+
+venv\scripts\activate
+
+```
+
+
+### GPU:
+```bash
+
+ pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+```
+
+### CPU:
+```bash
+
+ pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+
+```
+
+### 4. Install the Project and Dependencies
+
+Users with 10 series NVidia cards or AMD GPUs need to manually install the proper torch 2.6.0 versions.
+Otherwise just install from requirements.txt
+
+```bash
+pip install -r requirements.txt
+```
+
+## Running the Application
+
+With your virtual environment still active, run the script:
+
+```bash
+python app.py
+```
+
