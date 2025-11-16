@@ -14,6 +14,14 @@ Before you clone or download this code on your PC, let me make it clear to you t
 The URL is given above. Even if it doesn't work, it is still released on GitHub. I am already making this clear to you.
 Here is how to install it: First you have to download it, right? Then, as I have given you the details of the files, you have to tell ChatGPT that description and ask it, "Tell me how to install it." It will tell you how. Like, I will tell you.
 
+---
+
+### CPU / GPU Requirements (VIP Info)
+### Models Best Name
+*CPU (small) – 461 MB*  
+*CPU/GPU (medium) – 1.42 GB*  
+*4 VRAM GPU – (Systran/faster-whisper-large-v1) – 3.09 GB*
+
 
 ### Fast Whisper WebUI
 
@@ -108,10 +116,4 @@ Just click the YouTube link below! You'll find my 📧 email there and can messa
 *E-mail:*  
 nzgnzg73@gmail.com  
 
----
 
-### CPU / GPU Requirements (VIP Info)
-### Models Best Name
-*CPU (small) – 461 MB*  
-*CPU/GPU (medium) – 1.42 GB*  
-*4 VRAM GPU – (Systran/faster-whisper-large-v1) – 3.09 GB*
